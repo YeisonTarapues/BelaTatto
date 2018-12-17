@@ -1,0 +1,30 @@
+.parte1{
+    background:url('../imagenes/fondopa.jpg')50%;
+    height: 250px;
+    color:white;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.espacio{
+    height: 1px;
+    background:url('../imagenes/texture.png')repeat;
+}
+
+.parte2{
+    background: url('../imagenes/desenfoque.jpg');
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Shadows Into Light', cursive;
+    color: white;
+    text-align: center;
+}
+
+.parte3{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: url('../imagenes/textura4.jpg');
+    text-align:center;
+    font-family: 'Gloria Hallelujah', cursive;
+}
